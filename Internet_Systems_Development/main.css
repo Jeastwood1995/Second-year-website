@@ -1,0 +1,11 @@
+.container {
+	background-color: #3CF7DE;
+	height: auto;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
+body {
+	background: url("images/depositphotos_2582409-Html-background.jpg");
+	height: 100%;
+}
